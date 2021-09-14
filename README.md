@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Selinvictor&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
-  
+  <figure><embed src="https://wakatime.com/share/@460f1416-3d22-4195-a404-79d30614540e/9aece97a-d825-4a30-9e97-c96b250d0dcb.svg"></embed></figure>
 </p>
 
 <a href="https://github.com/Selinvictor/README.md">
