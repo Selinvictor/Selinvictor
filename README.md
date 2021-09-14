@@ -2,9 +2,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Selinvictor&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selinvictor&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
 </p>
+# Wakatime Stats
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=selinvictor&range=last_year&layout=compact&theme=radical)
+
+
 
 <h1 align="center">Hello There Im Tiffany And Editor Not DEv</h1>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=selinvictor&range=last_year&layout=compact&theme=radical)
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
