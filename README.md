@@ -4,7 +4,7 @@
 </p>
 # Wakatime Stats
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=selinvictor&range=last_year&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Selinvictor&range=last_year&layout=compact&theme=radical)
 
 
 
