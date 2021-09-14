@@ -6,7 +6,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Selinvictor&range=last_year&layout=compact&theme=radical)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Selinvictor&repo=virusbot-project />
+</a>
+<a href="https://github.com/Selinvictor/virusbot-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Selinvictor&repo=virusbot-project" />
+</a>
 
 <h1 align="center">Hello There Im Tiffany And Editor Not DEv</h1>
 
