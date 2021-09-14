@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hello There Im Tiffany And Editor Not DEv</h1>
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=selinvictor&range=last_year&layout=compact&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
