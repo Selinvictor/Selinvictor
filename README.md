@@ -1,21 +1,22 @@
 
 
+\`\`\`js
 const TheEvil = {
-    Age: 14,
-    Description: "I like to code what I love to make...",
-    FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 59,
-    OpenedPullRequests: 47,
-    TotalCommits: 5172,
+    Age: 00,
+    Description: "${UserData.bio}",
+    FavouriteLanguage: "Javascript",
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 66,
-       Contributed: 57
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-    CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
-    Stars: 1286,
+    CreatedAt: "${new Date(UserData.created_at).toString()}",
+    Stars: ${stars},
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
 }; //I'm a Epic Object. UwU
-
+\`\`\`
 
 
 
