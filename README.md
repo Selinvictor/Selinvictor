@@ -1,16 +1,20 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Selinvictor&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
-  <figure><embed src="https://wakatime.com/share/@460f1416-3d22-4195-a404-79d30614540e/9aece97a-d825-4a30-9e97-c96b250d0dcb.svg"></embed></figure>
-</p>
 
-<a href="https://github.com/Selinvictor/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Selinvictor&repo=README.md />
-</a>
-<a href="https://github.com/Selinvictor/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Selinvictor&repo=README.md" />
-</a>
 
-<h1 align="center">Hello There Im Tiffany And Editor Not DEv</h1>
+const TheEvil = {
+    Age: 14,
+    Description: "I like to code what I love to make...",
+    FavouriteLanguage: "Javascript/Typescript",
+    OpenedIssues: 59,
+    OpenedPullRequests: 47,
+    TotalCommits: 5172,
+    Repositories: {
+       Created: 66,
+       Contributed: 57
+    },
+    CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
+    Stars: 1286,
+    FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
+}; //I'm a Epic Object. UwU
 
 
 
