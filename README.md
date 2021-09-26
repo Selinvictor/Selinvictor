@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div class="topnav">
   <a href="https://github.com/Selinvictor" class="active">Home</a> -
   <a href="https://discord.gg/DbGJtmg8jx">Discord</a> -
-  <a href="http://virusbot.ml">⚡WEBSITE⚡</a>
+  <a href="http://plusbot.ga">⚡WEBSITE⚡</a>
 </div>
 
 
