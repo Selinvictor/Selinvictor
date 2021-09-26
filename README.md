@@ -1,26 +1,8 @@
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Sudhan. I use typescript to code and there is nothing so special about me...</p>
+<p align="center">Hello I'm TheEvil. I use javascript to code and there is nothing so special about me...</p>
 
 
-\`\`\`js
-const TheEvil = {
-    Age: 00,
-    Description: "${UserData.bio}",
-    FavouriteLanguage: "Javascript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
-    Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
-    },
-    CreatedAt: "${new Date(UserData.created_at).toString()}",
-    Stars: ${stars},
-    FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
-}; //I'm a Epic Object. UwU
-\`\`\`
-<hr>
-<div>
+
 
 
 Here are some ideas to get you started:
