@@ -2,7 +2,7 @@
 <p align="center">Hello I'm TheEvil. I use javascript to code and there is nothing so special about me...</p>
 
 
-
+[<img target="_blank" src="https://discord.c99.nl/widget/theme-4/202745501345382400.png">](https://discord.com/users/738237009277222954)
 
 
 Here are some ideas to get you started:
