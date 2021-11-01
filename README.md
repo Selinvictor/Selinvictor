@@ -1,3 +1,10 @@
+```js
+const TheEvil {
+name: "Tiffany",
+age: "2day",
+live: "Russia",
+}
+```
 <h1 align="center">Hi 👋, I'm The Evil</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
