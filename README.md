@@ -3,7 +3,8 @@ const TheEvil = require ("TheEvil");
 
 TheEvil.on('message', async msg => {
   if (msg.author.thethief) return;
-  if (msg.editor.sent.TheEvil == "dm") return msg.editor.lineReply("go a way stupid editor")
+  if (msg.editor.sent.TheEvil == "dm") return;
+  msg.editor.lineReply("go a way stupid editor")
 name: "Tiffany",
 age: "2day",
 live: "Russia",
