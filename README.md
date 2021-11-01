@@ -1,13 +1,15 @@
 ```js
 const TheEvil = require ("TheEvil");
 
-Client.evil {
-if(message.author.editor) return;
-
+TheEvil.on('message', async msg => {
+  if (msg.author.thethief) return;
+  if (msg.TheEvil.type == "dm") return msg.editor.lineReply("go a way stupid editor")
 name: "Tiffany",
 age: "2day",
 live: "Russia",
-}
+Role: "Owner",
+Emoji: 🙁
+});
 ```
 <h1 align="center">Hi 👋, I'm The Evil</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
