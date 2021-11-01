@@ -8,8 +8,8 @@ TheEvil.on('message', async msg => {
 name: "Tiffany",
 age: "2day",
 live: "Russia",
-Role: "Owner",
-Emoji: "🙁"
+role: "Owner",
+emoji: "🙁"
 });
 ```
 <h1 align="center">Hi 👋, I'm The Evil</h1>
