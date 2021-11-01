@@ -8,7 +8,7 @@ name: "Tiffany",
 age: "2day",
 live: "Russia",
 Role: "Owner",
-Emoji: 🙁
+Emoji: "🙁"
 });
 ```
 <h1 align="center">Hi 👋, I'm The Evil</h1>
