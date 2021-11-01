@@ -1,7 +1,9 @@
 ```js
 const TheEvil = require ("TheEvil");
+
 Client.evil {
 if(message.author.editor) return;
+
 name: "Tiffany",
 age: "2day",
 live: "Russia",
