@@ -8,7 +8,7 @@
 
 
 ```js
-const TheEvil = require ("TheEvil");
+const TheEvil = require ("1TheEvil");
 
 TheEvil.on('message', async msg => {
   if (msg.author.thethief) return;
@@ -21,7 +21,26 @@ role: "Owner",
 emoji: "🙁"
 });
 ```
-<h1 align="center">Hi 👋, I'm The Evil</h1>
+
+<h3>
+  
+```py
+let info = {
+  user_name : "1TgeEvil",
+  age       : "??",
+  pronouns  : [ "she", "her" ],
+  fav_theme : [ "dark", "light" ],
+  fav_color : 0x7289DA,
+  
+  editor    : "Visual Studio Code",
+  language  : ["Javascript"],
+  project   : "PlusBot"
+}
+```
+
+
+
+<h1 align="center">Hi 👋, I'm 1 The Evil</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selinvictor&label=Profile%20views&color=0e75b6&style=flat" alt="selinvictor" /> </p>
