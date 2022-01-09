@@ -38,7 +38,9 @@ let info = {
 }
 ```
 
-
+ <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Selinvictor&theme=react-dark&hide_border=true">
+  </a>
 
 <h1 align="center">Hi 👋, I'm 1 The Evil</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
