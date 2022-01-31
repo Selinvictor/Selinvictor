@@ -26,7 +26,7 @@ emoji: "🙁"
   
 ```py
 let info = {
-  user_name : "1TgeEvil",
+  user_name : "1TheEvil",
   age       : "??",
   pronouns  : [ "she", "her" ],
   fav_theme : [ "dark", "light" ],
